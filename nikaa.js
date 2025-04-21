@@ -1,6 +1,6 @@
 {
 
-  "secretCode": "pop",
+  "secretCode": "bypop",
 
   "description": "pop", 
 
